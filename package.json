@@ -1,0 +1,26 @@
+{
+  "name": "corepl",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "jbr",
+  "license": "MIT",
+  "scripts": {},
+  "homepage": "https://github.com/jbr/corepl",
+  "engines": {
+    "node": "0.11.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jbr/corepl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jbr/corepl/issues"
+  },
+  "bin": {
+    "corepl": "bin/corepl.js"
+  },
+  "dependencies": {
+    "co": "~3.0.4"
+  }
+}
